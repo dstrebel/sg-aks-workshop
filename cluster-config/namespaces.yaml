@@ -4,6 +4,7 @@ metadata:
   name: dev
   labels:
     app: dev
+    test: flux
   annotations:
     linkerd.io/inject: enabled
 ---
